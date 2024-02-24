@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase\ejercicios clase\bin\Debug\net8.0\ejercicios clase.exe
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase\ejercicios clase\bin\Debug\net8.0\ejercicios clase.deps.json
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase\ejercicios clase\bin\Debug\net8.0\ejercicios clase.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase\ejercicios clase\bin\Debug\net8.0\ejercicios clase.dll
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase\ejercicios clase\bin\Debug\net8.0\ejercicios clase.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase\ejercicios clase\obj\Debug\net8.0\ejercicios clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase\ejercicios clase\obj\Debug\net8.0\ejercicios clase.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase\ejercicios clase\obj\Debug\net8.0\ejercicios clase.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase\ejercicios clase\obj\Debug\net8.0\ejercicios clase.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase\ejercicios clase\obj\Debug\net8.0\ejercicios clase.dll
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase\ejercicios clase\obj\Debug\net8.0\refint\ejercicios clase.dll
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase\ejercicios clase\obj\Debug\net8.0\ejercicios clase.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase\ejercicios clase\obj\Debug\net8.0\ejercicios clase.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Documentos\Universidad\Tercer Semestre\Ejercicio clase\ejercicios clase\obj\Debug\net8.0\ref\ejercicios clase.dll
